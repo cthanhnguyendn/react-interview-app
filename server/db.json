@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Phuc",
+      "age": 24,
+      "gender": "M"
+    },
+    {
+      "id": 2,
+      "name": "Phương Trương",
+      "age": 22,
+      "gender": "F"
+    },
+    {
+      "id": 3,
+      "name": "Phương Trần",
+      "age": 28,
+      "gender": "M"
+    },
+    {
+      "id": 4,
+      "name": "Tín Nguyễn",
+      "age": 25,
+      "gender": "M"
+    },
+    {
+      "id": 5,
+      "name": "Thành Nguyễn",
+      "age": 27,
+      "gender": "M"
+    },
+    {
+      "id": 5,
+      "name": "Koichi",
+      "age": 32,
+      "gender": "M"
+    }
+  ],
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Senior Fontend engineer",
+      "description": "Description on senior Fontend engineer",
+      "salaryRange": {
+        "maxSalary": 2000,
+        "minSalary": 1000
+      }
+    }
+  ]
+}
